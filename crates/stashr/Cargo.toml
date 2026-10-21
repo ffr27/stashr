@@ -1,0 +1,8 @@
+[package]
+name = "stashr"
+version = "0.1.0"
+edition = "2024"
+description = "A fast, Rust-powered TUI to manage your Git stashes"
+license = "MIT"
+
+[dependencies]
